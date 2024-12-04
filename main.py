@@ -1,3 +1,8 @@
-# Placeholder for main.py
+# main.py
 
-# Add your implementation here.
+def main():
+    # Add your implementation here.
+    pass
+
+if __name__ == "__main__":
+    main()
