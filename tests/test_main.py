@@ -1,29 +1,22 @@
-# Placeholder for test_main.py
-
-# Import necessary libraries
+python
 import unittest
 
-# Create a class for the unittest
-class TestMain(unittest.TestCase):
+class TestMainFunctions(unittest.TestCase):
     """
-    This class is for unit testing main.py
+    Class for unit testing functions in main.py
     """
 
-    # Add your implementation here.
-    def test_function1(self):
+    def test_first_function(self):
         """
-        This function is for testing function1 in main.py
+        Tests the first function in main.py
         """
-        # Add your implementation here.
         pass
 
-    def test_function2(self):
+    def test_second_function(self):
         """
-        This function is for testing function2 in main.py
+        Tests the second function in main.py
         """
-        # Add your implementation here.
         pass
 
-# Main function to run the tests
 if __name__ == '__main__':
     unittest.main()

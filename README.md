@@ -6,41 +6,43 @@
 3. [Changelog](#changelog)
 
 ## Introduction
-This section should provide a brief overview of the project, its purpose, and how it works.
+The Introduction section provides a brief overview of the project, its objectives, and its functionality.
 
 ## Implementation
-Details of your implementation should be added here. Explain how to use your project, any dependencies or requirements, and any other important information for users or contributors.
+In the Implementation section, you'll find detailed information about the project's workings. It includes instructions on how to use the project, a list of dependencies or requirements, and other crucial information for users or contributors.
 
 ## Changelog
+The Changelog section is updated with each new version, detailing any additions, changes, deprecations, removals, fixes, or security updates. Each update is timestamped. 
+
 ### 2024-12-04 04:13:00
 #### Added
-- `.gitignore` file: This file is used to specify which files and directories to ignore in the project.
-- `README.md` file: This file provides information about the project and how to use it.
-- `docs/` folder: This folder contains documentation for the project.
-- `main.py` file: This is the main Python file for the project.
+- `.gitignore` file: This file specifies which files and directories to ignore in the project.
+- `README.md` file: This file provides information about the project and its usage.
+- `docs/` folder: This folder holds the project's documentation.
+- `main.py` file: This is the project's primary Python file.
 - `requirements.txt` file: This file lists the Python dependencies required for the project.
-- `src/` folder: This folder contains the source code for the project.
-- `tests/` folder: This folder contains the test code for the project.
+- `src/` folder: This folder houses the project's source code.
+- `tests/` folder: This folder contains the project's test code.
 
-Please note that the changelog should be updated with each new version, detailing any added, changed, deprecated, removed, fixed, or security updates. Always provide the date of the update.
+### 2024-12-04 04:31:58
+#### Updated
+- README.md file.
+- CHANGELOG.md file in the docs folder.
+- main.py file.
+- utils.py file in the src folder.
+- test_main.py file in the tests folder.
 
-Remember to follow the best practices for writing a README. Keep it concise but detailed, use bullet points for clarity, and always update it as your project evolves.
-## Changelog (2024-12-04 04:31:58)
+Remember to follow the best practices for writing a README. Keep it concise but detailed, use bullet points for clarity, and always keep it updated as your project evolves.
+## Changelog (2024-12-04 21:16:52)
 # Changelog
 
-## Date: [insert date here]
+## Date: [Insert Date Here]
 
-### README.md
-- Updated README.md file.
+### Changes:
+- Updated README.md
+- Updated docs/CHANGELOG.md
+- Updated main.py
+- Updated src/utils.py
+- Updated tests/test_main.py
 
-### docs/CHANGELOG.md
-- Updated CHANGELOG.md file in the docs folder.
-
-### main.py
-- Made changes to the main.py file.
-
-### src/utils.py
-- Updated utils.py file in the src folder.
-
-### tests/test_main.py
-- Made changes to the test_main.py file in the tests folder.
+Summary of changes made to the project's README, changelog, main script, utility functions, and test scripts.
