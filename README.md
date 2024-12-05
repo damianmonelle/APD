@@ -8,27 +8,27 @@
 ---
 
 ## Introduction
-The Introduction section provides a brief overview of the project, its objectives, and its functionality.
+This section provides a brief overview of the project, its objectives, and its functionality.
 
 ---
 
 ## Implementation
-In the Implementation section, you'll find detailed information about the project's workings. It includes instructions on how to use the project, a list of dependencies or requirements, and other crucial information for users or contributors.
+This section details the project's workings. It includes instructions on how to use the project, a list of dependencies or requirements, and other crucial information for users or contributors.
 
 ---
 
 ## Changelog
-The Changelog section is updated with each new version, detailing any additions, changes, deprecations, removals, fixes, or security updates. Each update is timestamped. 
+This section is updated with each new version, detailing any additions, changes, deprecations, removals, fixes, or security updates. Each update is timestamped.
 
 ### Version Update (2024-12-04 04:13:00)
 #### Additions
-- `.gitignore` file: This file specifies which files and directories to ignore in the project.
-- `README.md` file: This file provides information about the project and its usage.
-- `docs/` folder: This folder holds the project's documentation.
-- `main.py` file: This is the project's primary Python file.
-- `requirements.txt` file: This file lists the Python dependencies required for the project.
-- `src/` folder: This folder houses the project's source code.
-- `tests/` folder: This folder contains the project's test code.
+- `.gitignore` file: Specifies which files and directories to ignore in the project.
+- `README.md` file: Provides information about the project and its usage.
+- `docs/` folder: Holds the project's documentation.
+- `main.py` file: The project's primary Python file.
+- `requirements.txt` file: Lists the Python dependencies required for the project.
+- `src/` folder: Houses the project's source code.
+- `tests/` folder: Contains the project's test code.
 
 ### Version Update (2024-12-04 04:31:58)
 #### Updates
@@ -38,12 +38,12 @@ The Changelog section is updated with each new version, detailing any additions,
 - `utils.py` file in the `src/` folder.
 - `test_main.py` file in the `tests/` folder.
 
-Note: Always follow the best practices for writing a README. Keep it concise but detailed, use bullet points for clarity, and always keep it updated as your project evolves.
+Note: It's important to follow best practices when writing a README. Keep it concise but detailed, use bullet points for clarity, and always keep it updated as your project evolves.
 
 ---
 
-## Changelog Update (2024-12-04 21:16:52)
-### Changes
+### Changelog Update (2024-12-04 21:16:52)
+#### Changes
 - Updated `README.md`.
 - Updated `docs/CHANGELOG.md`.
 - Updated `main.py`.
@@ -51,16 +51,26 @@ Note: Always follow the best practices for writing a README. Keep it concise but
 - Updated `tests/test_main.py`.
 
 Summary: This update includes changes made to the project's README, changelog, main script, utility functions, and test scripts.
-## Changelog (2024-12-04 22:27:27)
-# Changelog
 
-### Date: [Insert Date Here]
-
+### Changelog (2024-12-04 22:27:27)
+#### Updates
 - Updated README.md
 - Updated docs/CHANGELOG.md
 - Updated main.py
 - Updated src/utils.py
 - Updated tests/test_main.py
 
-Summary of changes:
-- Various updates and modifications were made to the project files, including the README, CHANGELOG, main script, utility functions, and test cases.
+Summary of changes: Various updates and modifications were made to the project files, including the README, CHANGELOG, main script, utility functions, and test cases.
+## Changelog (2024-12-04 22:34:26)
+# Changelog
+
+## Date: [Current Date]
+
+### README.md
+- Updated README.md file
+
+### docs/CHANGELOG.md
+- Updated docs/CHANGELOG.md file
+
+### src/utils.py
+- Updated src/utils.py file
