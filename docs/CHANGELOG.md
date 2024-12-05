@@ -1,40 +1,43 @@
-# Changelog
+Summary: This refactoring improves the readability of the instructions for maintaining a project changelog. It retains all original information while making the text more concise and easier to understand.
 
-This file documents all notable changes to this project. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+---
 
-## How to Update the Changelog
+# Changelog Guidelines
 
-Follow these guidelines for updating the changelog:
+This document outlines how to maintain the project's changelog. It follows the format recommended by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-1. **Record Every Change:** Update your changelog with every change made in the project.
-2. **Clarity and Conciseness:** Ensure the changelog is easy to read, clear, and concise.
-3. **Use Headers:** Use the headers as described in the 'Changelog Structure' section to categorize your changes.
-4. **Version and Release Date:** Always mention the version and release date of your changes.
-5. **Unreleased Section:** Maintain an 'Unreleased' section at the top to note upcoming changes.
-6. **Link Related Issues or Pull Requests:** If possible, link to the related issues or pull requests.
-7. **Adhere to Best Practices:** Follow the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format for best practices.
+## Updating the Changelog
+
+When updating the changelog, adhere to the following guidelines:
+
+1. **Document All Changes:** Include every modification made in the project.
+2. **Be Clear and Concise:** Keep the changelog readable and straight to the point.
+3. **Use Proper Headers:** Categorize changes using the headers detailed in the 'Changelog Structure' section.
+4. **Specify Version and Release Date:** Always include the version and release date of the changes.
+5. **Maintain an 'Unreleased' Section:** Keep an 'Unreleased' section for noting future changes.
+6. **Link to Related Issues or Pull Requests:** If applicable, provide links to related issues or pull requests.
+7. **Follow Best Practices:** Stick to the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
 
 ## Changelog Structure
 
-The changelog should be structured as follows:
+Structure your changelog as follows:
 
 ### [Unreleased]
 
 #### Added
-- New features that have been added.
-- More details about these additions.
+- Newly added features and their details.
 
 #### Changed
-- Changes in existing functionality.
+- Modifications to existing functionality.
 
 #### Deprecated
-- Features that are planned for removal in the future.
+- Features set to be removed in the future.
 
 #### Removed
-- Features that have been removed.
+- Features that have been deleted.
 
 #### Fixed
-- Bug fixes.
+- Resolved bugs.
 
 #### Security 
-- Changes made to address security vulnerabilities.
+- Updates addressing security vulnerabilities.

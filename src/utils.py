@@ -3,9 +3,9 @@ python
 
 """This module serves as a placeholder for utility functions."""
 
-from typing import Any
+from typing import Union
 
-def placeholder_function(param1: Any, param2: Any) -> None:
+def placeholder_function(param1: Union[str, int], param2: Union[str, int]) -> None:
     """
     This function serves as a placeholder for future functions.
     
@@ -16,7 +16,7 @@ def placeholder_function(param1: Any, param2: Any) -> None:
     Returns:
         None
     """
-    pass
+    print(f"Placeholder function called with parameters {param1} and {param2}")
 
 def main():
     # Test functions here
